@@ -1,2 +1,4 @@
 # repo_hab
- hab's bioinfo study in the corse **Bioinformatics Tutorial**
+ Hab's bioinfo study in the corse *Bioinformatics in Action*
+
+:running:**You reap what you sow!**:running:
